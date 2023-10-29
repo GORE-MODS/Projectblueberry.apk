@@ -1,13 +1,1 @@
-*.tar
-*.tar.*
-*.jar
-*.exe
-*.msi
-*.zip
-*.tgz
-*.log
-*.log.*
-*.sig
-
-pkg/
-src/
+zip*Gorilla_Tag_5343782.zip.
